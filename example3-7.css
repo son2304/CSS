@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.row{
+    width: 100%;
+}
+
+.column {
+    display: inline-block;
+    width: 30%;
+    padding: 15px;
+}
+
+@media screen and (max-width:600px){
+    .column{
+        width: 100%;
+    }
+}

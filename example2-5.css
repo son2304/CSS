@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+}
+
+.img-middle{
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.img-top{
+    vertical-align: top;
+    margin: 10px;
+}
+
+.img-bottom{
+    vertical-align: bottom;
+    margin: 10px;
+}
+

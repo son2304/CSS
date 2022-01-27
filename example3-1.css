@@ -1,0 +1,23 @@
+#text1{
+    font-size: 1em;
+}
+
+#text2{
+    font-size: 2em;
+}
+
+#text3{
+    font-size: 1rem;
+}
+
+#text4{
+    font-size: 2rem;
+}
+
+#text5{
+    font-size: 30px;
+}
+
+body{
+    font-size: 20px;
+}

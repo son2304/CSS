@@ -1,0 +1,16 @@
+.box1{
+    width: 100px;
+    border-color: purple;
+    border-width: 10px;
+    border-style: solid;
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
+
+.box2{
+    border-color: powderblue;
+    border-width: 20px;
+    border-style: solid;
+    padding: 50px 50px;
+    margin: 100px 100px;
+}
