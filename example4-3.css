@@ -1,0 +1,35 @@
+body{
+    counter-reset: section;
+}
+
+h1::before{
+    content: "###";
+}
+
+h2::before{
+    counter-increment: section;
+    content: "Section" counter(section) ": ";
+}
+
+p{
+    display: none;
+}
+
+div:hover p {
+    display: block;
+}
+
+::selection{
+    color: red;
+    background: yellow;
+}
+
+.content::first-letter{
+    color: #ff0000;
+    font-size: xx-large;
+}
+
+.content::first-line{
+    color: #0000ff;
+    font-variant: small-caps;
+}

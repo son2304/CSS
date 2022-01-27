@@ -1,0 +1,12 @@
+body{
+    background-color: lightslategray;
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+div{
+    background-color: orange;
+    margin: 50px;
+    padding: 100px;
+    width: 300px;
+}
